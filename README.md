@@ -1,0 +1,1 @@
+# aws-rds-via-secretmgr
